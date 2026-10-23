@@ -1,5 +1,5 @@
 ## 👋 About Me
-- Backend developer with previous experience at **Tencent IEG** and **Didi Finance**.
+- Backend Engineer with experience at Tencent IEG, Didi Finance, and currently at ByteDance CapCut.
 
 - Familiar with backend development
 
